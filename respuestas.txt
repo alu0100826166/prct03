@@ -2,3 +2,18 @@
 
 1.-¿Cuál es el propósito de trabajar con múltiples ramas?
 El propósito de trabajar con múltiples ramas es tener a salvo un proyecto que funciona e ir añadiendo modificaciones cuando se compruebe que funciona correctamente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+3-.¿Cuál es la ventaja de reorganizar (rebase)?
+Que se obtienen todas las modificaciones de ambas ramas, tanto las intermedias como las finales.
