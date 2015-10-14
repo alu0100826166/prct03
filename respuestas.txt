@@ -15,5 +15,10 @@ El propósito de trabajar con múltiples ramas es tener a salvo un proyecto que 
 
 
 
-3-.¿Cuál es la ventaja de reorganizar (rebase)?
-Que se obtienen todas las modificaciones de ambas ramas, tanto las intermedias como las finales.
+
+
+
+2.-¿Qué es una reorganización?
+Es un tipo de fusión que permite aplicar los cambios de cada confirmación intermedia de las ramas que se quieren fusionar. El resultado es una confirmacion por cada confirmacion intermedia de la rama.
+La última confirmacion contiene los cambios de todas las confirmaciones de todas las ramas.
+
