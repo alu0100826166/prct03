@@ -1,3 +1,4 @@
 'Respuestas a las preguntas de la práctica 3'
 
 1.-¿Cuál es el propósito de trabajar con múltiples ramas?
+El propósito de trabajar con múltiples ramas es tener a salvo un proyecto que funciona e ir añadiendo modificaciones cuando se compruebe que funciona correctamente.
